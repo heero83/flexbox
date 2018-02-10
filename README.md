@@ -8,4 +8,4 @@ Here I will be practicing with flexbox.
 
 * In FLEXBOX-4 I did work with align-items property, this time is about the cross axis unlike the previous lessons where I have worked along the main axis and we also have worked with the flex-direction property.
 
-* In FLEXBOX-5 we did worked with the flex-direction property.
+* In FLEXBOX-5 we did work with the flex-direction property.
